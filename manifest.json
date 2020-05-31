@@ -1,7 +1,7 @@
 {
     "name": "NoNecro",
     "version": "1.0",
-    "description": "Filters out necroposts on many different forums. You can change which sites it is active on by clicking on the icon in the top right -> Manage Extensions -> Site Access.",
+    "description": "Filters out necroposts on most internet forums.",
     "manifest_version": 2,
     "permissions": [
         "storage"
